@@ -1,0 +1,41 @@
+id_distribuidor,resultado_txt,monto_autorizado,tasa_minima,tasa_sugerida,probabilidad,grupo_riesgo,fecha,hora
+174711,"No existe un intervalo factible, se rechaza el crédito
+Su capacidad de pago no asegura tener una rentabilidad del 40%
+El pago semanal mínimo es de 358.78 (con rentabilidad de -71.26%) y se tiene capacidad hasta 840.0
+La rentabilidad máx alcanzada es de 15.77% (con pago de 406.60) y se tiene como objetivo 40.0%",0,0,0,0.7848,Canasta 9,2024-01-15,06:56
+174738,"No existe un intervalo factible, se rechaza el crédito
+Su capacidad de pago no asegura tener una rentabilidad del 40%
+El pago semanal mínimo es de 358.78 (con rentabilidad de -106.01%) y se tiene capacidad hasta 1080.0
+La rentabilidad máx alcanzada es de -1.32% (con pago de 406.60) y se tiene como objetivo 40.0%",0,0,0,0.8555,Canasta 10,2024-01-15,06:56
+174739,"No existe un intervalo factible, se rechaza el crédito
+Su capacidad de pago no asegura tener una rentabilidad del 40%
+El pago semanal mínimo es de 358.78 (con rentabilidad de -71.26%) y se tiene capacidad hasta 880.0
+La rentabilidad máx alcanzada es de 15.77% (con pago de 406.60) y se tiene como objetivo 40.0%",0,0,0,0.71,Canasta 9,2024-01-15,06:56
+174740,"Tasa anual sugerida es de 147% con rentabilidad: 48.75% y pagando 813.20
+Tasa anual mínima posible es de 127% con rentabilidad: 40.08% y pagando 785.98",10000,127,147,0.3981,Canasta 6,2024-01-15,06:56
+174740,"Tasa anual sugerida es de 147% con rentabilidad: 47.46% y pagando 731.88
+Tasa anual mínima posible es de 132% con rentabilidad: 40.08% y pagando 711.03",9000,132,147,0.3981,Canasta 6,2024-01-15,06:56
+174740,"Tasa anual sugerida es de 147% con rentabilidad: 45.84% y pagando 650.56
+Tasa anual mínima posible es de 137% con rentabilidad: 40.20% y pagando 636.36",8000,137,147,0.3981,Canasta 6,2024-01-15,06:56
+174740,"Tasa anual sugerida es de 147% con rentabilidad: 43.76% y pagando 569.24
+Tasa anual mínima posible es de 142% con rentabilidad: 40.29% y pagando 561.58",7000,142,147,0.3981,Canasta 6,2024-01-15,06:56
+174740,"Tasa anual sugerida es de 147% con rentabilidad: 41.00% y pagando 487.92
+Tasa anual mínima posible es de 147% con rentabilidad: 40.12% y pagando 486.27",6000,147,147,0.3981,Canasta 6,2024-01-15,06:56
+174741,"Tasa anual sugerida es de 147% con rentabilidad: 43.08% y pagando 813.20
+Tasa anual mínima posible es de 142% con rentabilidad: 40.03% y pagando 803.62",10000,142,147,0.44,Canasta 7,2024-01-15,06:56
+174741,"Tasa anual sugerida es de 147% con rentabilidad: 41.79% y pagando 731.88
+Tasa anual mínima posible es de 147% con rentabilidad: 40.04% y pagando 726.95",9000,147,147,0.44,Canasta 7,2024-01-15,06:56
+174741,"Tasa anual sugerida es de 147% con rentabilidad: 40.17% y pagando 650.56
+Tasa anual mínima posible es de 147% con rentabilidad: 40.17% y pagando 650.56",8000,147,147,0.44,Canasta 7,2024-01-15,06:56
+174986,"Tasa anual sugerida es de 147% con rentabilidad: 62.52% y pagando 813.20
+Tasa anual mínima posible es de 95% con rentabilidad: 40.46% y pagando 743.48",10000,95,147,0.1425,Canasta 2,2024-01-15,06:56
+174986,"Tasa anual sugerida es de 147% con rentabilidad: 61.22% y pagando 731.88
+Tasa anual mínima posible es de 100% con rentabilidad: 40.38% y pagando 672.67",9000,100,147,0.1425,Canasta 2,2024-01-15,06:56
+174986,"Tasa anual sugerida es de 147% con rentabilidad: 59.61% y pagando 650.56
+Tasa anual mínima posible es de 105% con rentabilidad: 40.46% y pagando 602.13",8000,105,147,0.1425,Canasta 2,2024-01-15,06:56
+174986,"Tasa anual sugerida es de 147% con rentabilidad: 57.53% y pagando 569.24
+Tasa anual mínima posible es de 110% con rentabilidad: 40.47% y pagando 531.49",7000,110,147,0.1425,Canasta 2,2024-01-15,06:56
+174986,"Tasa anual sugerida es de 147% con rentabilidad: 54.76% y pagando 487.92
+Tasa anual mínima posible es de 115% con rentabilidad: 40.14% y pagando 460.34",6000,115,147,0.1425,Canasta 2,2024-01-15,06:56
+174986,"Tasa anual sugerida es de 147% con rentabilidad: 50.89% y pagando 406.60
+Tasa anual mínima posible es de 122% con rentabilidad: 40.08% y pagando 389.63",5000,122,147,0.1425,Canasta 2,2024-01-15,06:56

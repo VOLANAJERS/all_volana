@@ -1,0 +1,5 @@
+id_distribuidor,resultado_txt,monto_autorizado,tasa_minima,tasa_sugerida,probabilidad,grupo_riesgo,fecha,hora
+174798,"No existe un intervalo factible, se rechaza el crédito
+Su capacidad de pago no asegura tener una rentabilidad del 40%
+El pago semanal mínimo es de 358.78 (con rentabilidad de -39.37%) y se tiene capacidad hasta 600.0
+La rentabilidad máx alcanzada es de 31.45% (con pago de 406.60) y se tiene como objetivo 40.0%",0,0,0,0.4296,Canasta 7,2024-01-12,07:31

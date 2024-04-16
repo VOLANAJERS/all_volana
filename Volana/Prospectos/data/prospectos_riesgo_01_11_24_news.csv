@@ -1,0 +1,17 @@
+id_distribuidor,resultado_txt,monto_autorizado,tasa_minima,tasa_sugerida,probabilidad,grupo_riesgo,fecha,hora
+174616,"Tasa anual sugerida es de 147% con rentabilidad: 62.52% y pagando 813.20
+Tasa anual mínima posible es de 95% con rentabilidad: 40.46% y pagando 743.48",10000,95,147,0.1465,Canasta 2,2024-01-11,07:42
+174616,"Tasa anual sugerida es de 147% con rentabilidad: 61.22% y pagando 731.88
+Tasa anual mínima posible es de 100% con rentabilidad: 40.38% y pagando 672.67",9000,100,147,0.1465,Canasta 2,2024-01-11,07:42
+174616,"Tasa anual sugerida es de 147% con rentabilidad: 59.61% y pagando 650.56
+Tasa anual mínima posible es de 105% con rentabilidad: 40.46% y pagando 602.13",8000,105,147,0.1465,Canasta 2,2024-01-11,07:42
+174616,"Tasa anual sugerida es de 147% con rentabilidad: 57.53% y pagando 569.24
+Tasa anual mínima posible es de 110% con rentabilidad: 40.47% y pagando 531.49",7000,110,147,0.1465,Canasta 2,2024-01-11,07:42
+174616,"Tasa anual sugerida es de 147% con rentabilidad: 54.76% y pagando 487.92
+Tasa anual mínima posible es de 115% con rentabilidad: 40.14% y pagando 460.34",6000,115,147,0.1465,Canasta 2,2024-01-11,07:42
+174616,"Tasa anual sugerida es de 147% con rentabilidad: 50.89% y pagando 406.60
+Tasa anual mínima posible es de 122% con rentabilidad: 40.08% y pagando 389.63",5000,122,147,0.1465,Canasta 2,2024-01-11,07:42
+174577,"No existe un intervalo factible, se rechaza el crédito
+Su capacidad de pago no asegura tener una rentabilidad del 40%
+El pago semanal mínimo es de 358.78 (con rentabilidad de -77.78%) y se tiene capacidad hasta 1600.0
+La rentabilidad máx alcanzada es de 12.56% (con pago de 406.60) y se tiene como objetivo 40.0%",0,0,0,0.5219,Canasta 8,2024-01-11,07:42
