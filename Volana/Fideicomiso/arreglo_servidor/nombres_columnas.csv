@@ -1,0 +1,104 @@
+Tabla,Excel
+sucursal,SUCURSAL
+id_coordinador,ID COORDINADOR
+coordinador,COORDINADOR
+id_asesor,ID ASESOR
+asesor,ASESOR
+id_distribuidor,id_distribuidor
+distribuidor,DISTRIBUIDOR
+fecha_aut_linea,F. AUT. LINEA
+fecha_ult_incremento,F. ULT. INCREMENTO
+no_incrementos,NO. INCREMENTOS
+linea_de_credito,LINEA DE CREDITO
+linea_dispuesta,LINEA DISPUESTA $
+linea_disponible,DISPONIBLE
+fecha_primera_disposicion,F. PRIMERA DISP.
+asociados_activos,ASOCIADOS ACTIVOS
+asociados_totales,ASOCIADOS TOTALES
+total_pagado_capital,CAPITAL
+total_pagado_interes,INTERES
+total_pagado_iva_interes,IVA INTERES
+total_pagado_seguro,SEGURO ASOCIADOS
+total_pagado_seguro_dist,SEGURO DISTRIBUIDOR
+total_pagado_multas,MULTAS
+total_pagado_iva_multas,IVA MULTAS
+total_pagado,TOTAL PAGADO
+saldo_pendiente_capital,CAPITAL.1
+saldo_pendiente_interes,INTERES.1
+saldo_pendiente_iva_interes,IVA INTERES.1
+saldo_pendiente_seguro,SEGURO ASOCIADOS.1
+saldo_pendiente_seguro_dist,SEGURO DISTRIBUIDOR.1
+saldo_pendiente_multas,MULTAS.1
+saldo_pendiente_iva_multas,IVA MULTAS.1
+saldo_pendiente_total,TOTAL PENDIENTE
+fecha_atraso,F. ATRASO
+dias_atraso,DIAS ATRASO
+capital_atraso,CAPITAL ATRASO
+saldo_atraso,SALDO ATRASADO
+fecha_ultimo_pago,F. ULTIMO PAGO
+fecha_proximo_pago,F. PROX. PAGO
+proximo_pago_saldo_atrasado,SALDO ATRASADO.1
+proximo_pago_importe_partida,IMPORTE PARTIDA
+proximo_pago_seguro asociados,SEG. ASOC.
+proximo_pago_seguro_distribuidor,SEG. DIST.
+proximo_pago_credito_personal,CREDITO PERSONAL
+proximo_pago_total_quincena,
+proximo_pago_total_pago,TOTAL PAGO SEMANAL
+proximo_pago_anticipado,PAGO ANTICIPADO
+proximo_pago_comision,COMISION
+proximo_pago_moratorios,MORATORIOS
+proximo_pago_monto_depositar,MONTO DEPOSITAR
+fecha,
+fecha_reactivacion,F. REACTIVACION
+empleado_asesor,EMPLEADO ASESOR
+empleado_coordinador,EMPLEADO COORD.
+Period,
+convenio,CONVENIO
+status,ESTATUS.
+reestructurado,REESTRUCTURADO
+fecha_siguiente,
+importe_aplicado,
+comisiones,
+registros,
+id_red,
+tipo_distribuidor,TIPO DISTRIBUIDOR
+nombre_red,
+id_prestamo_personal,
+saldo_prestamo_personal,
+pagos_anticipados_u4p,
+pagos_en_tiempo_u4p,
+pagos_destiempo_u4p,
+pagos_pendientes_u4p,
+pagos_anticipados_u6p,
+pagos_en_tiempo_u6p,
+pagos_destiempo_u6p,
+pagos_pendientes_u6p,
+coordinadores,
+asesores,
+red,
+e_capital,
+e_interes,
+e_iva,
+capital_p_personal,
+interes_p_personal,
+iva_p_personal,
+frecuencia_de_pago,
+dia,
+hora,
+garantia_aplicada,
+f_ult_disp,
+ciclo_red,
+categoria,
+capital_vencido,
+interes_vencido,
+iva_vencido,
+redondeo_vencido,
+moratorio_vencido,
+seguro_distribuidor_vencido,
+seguro_asociado_vencido,
+linea_bloqueada,
+id_cliente,
+tipo_distribuidor_origen,
+fecha_cambio_tipo_distribuidor,
+fecha_consulta_cc_1,
+fecha_consulta_cc_2,
