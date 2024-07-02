@@ -1,4 +1,4 @@
-select 
+select * from (select 
 id as 'APPLICANT_ID', 
 monto_mensual as ingreso_mensual,
 gastos_familiares,
@@ -44,4 +44,5 @@ sexo,
 sucursal,
 tipo_negocio,
 tipo_vivienda
-from demograficos_distribuidores
+from demograficos_distribuidores) as pen
+where pen.APPLICANT_ID in (116)
